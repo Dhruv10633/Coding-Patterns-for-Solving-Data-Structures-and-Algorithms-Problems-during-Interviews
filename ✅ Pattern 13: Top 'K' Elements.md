@@ -598,7 +598,7 @@ ${findMaximumDistinctElements([1, 2, 3, 3, 3, 3, 4, 4, 5, 5, 5], 2)}`); //3, We 
 
 ## Sum of Elements (medium)
 
-https://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/
+[https://www.geeksforgeeks.org/sum-elements-k1th-k2th-smallest-elements/](https://www.geeksforgeeks.org/problems/sum-of-elements-between-k1th-and-k2th-smallest-elements3133/1?problemStatus=unsolved&category[]=Heap&query=category[]HeapproblemStatusunsolveddifficulty[]-1difficulty[]0page1category[]Heap&difficulty[]=-1&page=1)
 
 > Given an array, find the sum of all numbers between the `K1th` and `K2th` smallest elements of that array.
 
